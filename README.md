@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **React**
   
-- 🤝 I am looking for a new position as a **Front-end**
+- 🤝 I am looking for a new position as a **Front-end** or **Back-end**
 
 - 📫 How to reach me: **Nicolastoledolima18@icloud.com**
   
