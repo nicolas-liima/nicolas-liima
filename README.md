@@ -1,8 +1,8 @@
  <h1 align="center">Hi there, I'm Nicolas Lima 👋</h1>
 
-- 🔭 I’m **Front-end Developer**
+- 🔭 I’m **Front-end and Back-end Developer**
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java and React**
   
 - 🤝 I am looking for a new position as a **Front-end** or **Back-end**
 
