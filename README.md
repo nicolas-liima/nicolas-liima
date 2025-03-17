@@ -32,7 +32,7 @@
     <img align="center" style="height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm"/>
     <img align="center" style="width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg" alt="yarn" />
     <img align="center" style="width: 115px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" alt="webpack" />
-     <img align="center" style="width: 115px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/webpack-original-wordmark.svg" alt="docker" />
+     <img align="center" style="width: 115px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" />
     </div>
  
 </div>
