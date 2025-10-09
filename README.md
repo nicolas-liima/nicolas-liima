@@ -2,11 +2,11 @@
 
 - 🔭 I’m **Front-end and Back-end Developer**
   
-- 🌱 I’m currently learning **Java and React**
+- 🌱 I’m currently learning **Java and Spring**
   
 - 📫 How to reach me: **Nicolastoledolima18@icloud.com**
   
-- ⚡ Fun fact: **I take an English course on Saturdays 🗽. I'm passionate about football ⚽, I like playing video games 🎮 and I'm extroverted😄!**
+- ⚡ Fun fact: **I'm passionate about football ⚽, I like playing video games 🎮 and I'm extroverted😄!**
 
 #
 
